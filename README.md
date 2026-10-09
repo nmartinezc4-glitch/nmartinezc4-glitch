@@ -6,10 +6,11 @@ Estudiante de Ingeniería en Sistemas | Desarrollo de software
 
 Estudiante de octavo semestre de Ingeniería en Sistemas en la Universidad Mariano Gálvez. Me interesan el desarrollo de software, las bases de datos y las redes. Uso herramientas de inteligencia artificial para agilizar la programación y la depuración, y trabajo en equipo bajo metodologías ágiles como Scrum y XP.
 
-## Proyectos
+  ## Proyectos
 
-- [Compilador HiSK](https://github.com/nmartinezc4-glitch/compilador-hisk): analizador léxico y sintáctico de un lenguaje propio, en Java con JFlex y CUP.
-- [Ejercicios de PHP](https://github.com/nmartinezc4-glitch/ejercicios-php): ejercicios con HTML, CSS, PHP y MySQL.
+  - [Sistema de Nómina](https://github.com/nmartinezc4-glitch/proyecto-nomina-portafolio): módulo de nómina de un ERP académico, en equipo, con React, Node.js y Oracle. En desarrollo.
+  - [Compilador HiSK](https://github.com/nmartinezc4-glitch/compilador-hisk): analizador léxico y sintáctico de un lenguaje propio, en Java con JFlex y CUP.
+  - [Ejercicios de PHP](https://github.com/nmartinezc4-glitch/ejercicios-php): ejercicios con HTML, CSS, PHP y MySQL.
 
 ## Tecnologías
 
