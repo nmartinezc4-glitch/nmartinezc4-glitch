@@ -4,7 +4,7 @@ Estudiante de Ingeniería en Sistemas | Desarrollo de software
 
 ## Sobre mí
 
-Estudiante de octavo semestre de Ingeniería en Sistemas en la Universidad Mariano Gálvez, en San Miguel Petapa, Guatemala. Me interesan el desarrollo de software, las bases de datos y las redes. Uso herramientas de inteligencia artificial para agilizar la programación y la depuración, y trabajo en equipo bajo metodologías ágiles como Scrum y XP.
+Estudiante de octavo semestre de Ingeniería en Sistemas en la Universidad Mariano Gálvez. Me interesan el desarrollo de software, las bases de datos y las redes. Uso herramientas de inteligencia artificial para agilizar la programación y la depuración, y trabajo en equipo bajo metodologías ágiles como Scrum y XP.
 
 ## Tecnologías
 
