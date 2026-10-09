@@ -9,16 +9,13 @@ Estudiante de octavo semestre de Ingeniería en Sistemas en la Universidad Maria
 ## Tecnologías
 
 - Desarrollo: PHP, JavaScript, React, Node.js, Java, HTML y CSS
-- Bases de datos: MySQL, Oracle y SQL Server
-- Herramientas: Git, GitHub, Visual Studio Code, Visual Studio, NetBeans, Postman y VirtualBox
-- Sistemas y redes: Linux, Windows y Cisco Packet Tracer
+- Bases de datos: SQL, MySQL, Oracle y SQL Server
+- Redes: direccionamiento con VLSM y configuración básica de routers Cisco en Packet Tracer
+- Sistemas y virtualización: Linux, Windows, SSH, VMware, VirtualBox, XAMPP y LAMP
+- Monitoreo: Prometheus y Grafana
+- Análisis y diseño: UML, casos de uso, historias de usuario y documentación
+- Herramientas: Git, GitHub, Visual Studio Code, Visual Studio, NetBeans, Postman, Jira y Trello
 - IA aplicada al desarrollo: Antigravity, Claude y Gemini
-
-## Proyectos
-
-- [Sistema de Nómina](enlace): módulo de nómina con React, Node.js y Oracle.
-- [Analizador y compilador HiSK](enlace): compilador de un lenguaje propio en Java.
-- [Ejercicios y página web](enlace): proyectos con PHP, JavaScript, MySQL, HTML y CSS.
 
 ## Certificaciones
 
@@ -27,4 +24,3 @@ Estudiante de octavo semestre de Ingeniería en Sistemas en la Universidad Maria
 ## Contacto
 
 - Correo: byjosephbri18@gmail.com
-- LinkedIn: enlace
