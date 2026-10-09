@@ -1,16 +1,30 @@
-## Hi there 👋
+# Néstor Joseph Martínez Cruz
 
-<!--
-**nmartinezc4-glitch/nmartinezc4-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Sistemas | Desarrollo de software
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudiante de octavo semestre de Ingeniería en Sistemas en la Universidad Mariano Gálvez, en San Miguel Petapa, Guatemala. Me interesan el desarrollo de software, las bases de datos y las redes. Uso herramientas de inteligencia artificial para agilizar la programación y la depuración, y trabajo en equipo bajo metodologías ágiles como Scrum y XP.
+
+## Tecnologías
+
+- Desarrollo: PHP, JavaScript, React, Node.js, Java, HTML y CSS
+- Bases de datos: MySQL, Oracle y SQL Server
+- Herramientas: Git, GitHub, Visual Studio Code, Visual Studio, NetBeans, Postman y VirtualBox
+- Sistemas y redes: Linux, Windows y Cisco Packet Tracer
+- IA aplicada al desarrollo: Antigravity, Claude y Gemini
+
+## Proyectos
+
+- [Sistema de Nómina](enlace): módulo de nómina con React, Node.js y Oracle.
+- [Analizador y compilador HiSK](enlace): compilador de un lenguaje propio en Java.
+- [Ejercicios y página web](enlace): proyectos con PHP, JavaScript, MySQL, HTML y CSS.
+
+## Certificaciones
+
+- Fortinet NSE 1 Certified in Cybersecurity, 2026
+
+## Contacto
+
+- Correo: byjosephbri18@gmail.com
+- LinkedIn: enlace
