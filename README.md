@@ -30,4 +30,4 @@ Estudiante de octavo semestre de Ingeniería en Sistemas en la Universidad Maria
 
 ## Contacto
 
-- Correo: byjosephbri18@gmail.com
+- Correo: nestormartinezjc@gmail.com
